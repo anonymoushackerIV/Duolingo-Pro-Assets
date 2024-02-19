@@ -5,12 +5,12 @@
         "title": {
             "title-text": "Give Duolingo Pro a star on GitHub",
             "title-color": "rgba(255, 255, 255, 1)",
-            "title-height": "48px"
+            "title-height": "42px"
         },
         "description": {
             "description-text": "Give Duolingo Pro a star on GitHub and help us with the development of Duolingo Pro.",
             "description-color": "rgba(255, 255, 255, 0.50)",
-            "description-height": "76px"
+            "description-height": "84px"
         },
         "background": "#333333",
         "border": "rgba(0, 0, 0, 0.1)",
@@ -21,12 +21,12 @@
         "title": {
             "title-text": "Join the Secret HQ, get rewards",
             "title-color": "rgba(255, 255, 255, 1)",
-            "title-height": "48px"
+            "title-height": "42px"
         },
         "description": {
             "description-text": "Get a chance to win Duolingo Super for free by joining our Discord Server - The Duolingo Pro Secret HQ. Rewards are limited, so be fast.",
             "description-color": "rgba(255, 255, 255, 0.50)",
-            "description-height": "118px"
+            "description-height": "126px"
         },
         "background": "#5856D6",
         "border": "rgba(0, 0, 0, 0.1)",
