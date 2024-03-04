@@ -31,6 +31,31 @@
         },
         "status": "latest"
     },
+    "2.0BETA9.6": {
+        "last-updated": "March 3, 2024",
+        "warning-1": {
+            "warning-title": "Story & Legendary support is coming soon.",
+            "warning-description": "Warning 1",
+            "warning-level": "high",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-2": {
+            "warning-title": "Next Update Tracker doesn't work yet.",
+            "warning-description": "Warning 2",
+            "warning-level": "medium",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-3": {
+            "warning-title": "Match Pairs questions in languages that use non-Roman alphabets might not get solved.",
+            "warning-description": "Warning 3",
+            "warning-level": "medium",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "status": "latest"
+    },
     "2.0BETA9.5.2": {
         "last-updated": "February 19, 2024",
         "warning-1": {
@@ -54,7 +79,7 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest"
+        "status": "outdated"
     },
     "2.0BETA9.5": {
         "last-updated": "February 11, 2024",
