@@ -31,6 +31,59 @@
         },
         "status": "latest"
     },
+    "2.0BETA9.6.3": {
+        "last-updated": "March 14, 2024",
+        "warning-1": {
+            "warning-title": "Story & Legendary support is coming soon.",
+            "warning-description": "Warning 1",
+            "warning-level": "high",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-2": {
+            "warning-title": "Next Update Tracker doesn't work yet.",
+            "warning-description": "Warning 2",
+            "warning-level": "medium",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-3": {
+            "warning-title": "Match Pairs questions in languages that use non-Roman alphabets might not get solved.",
+            "warning-description": "Warning 3",
+            "warning-level": "medium",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-4": {
+            "warning-title": "Fixed an issue that might have led to Duolingo Pro not solving the first question in a lesson.",
+            "warning-description": "Warning 4",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-5": {
+            "warning-title": "Fixed an issue that might have not solved a question that involved translating then typing a single word.",
+            "warning-description": "Warning 5",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-6": {
+            "warning-title": "Fixed an issue that might have led to Duolingo Pro not opening chests in path mode.",
+            "warning-description": "Warning 6",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-7": {
+            "warning-title": "Fixed an issue that might have led to Duolingo Pro not working at all on a path with no chests.",
+            "warning-description": "Warning 7",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "status": "latest"
+    },
     "2.0BETA9.6.2": {
         "last-updated": "March 10, 2024",
         "warning-1": {
@@ -75,7 +128,7 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest"
+        "status": "outdated"
     },
     "2.0BETA9.6.1": {
         "last-updated": "March 5, 2024",
@@ -114,7 +167,7 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest"
+        "status": "outdated"
     },
     "2.0BETA9.6": {
         "last-updated": "March 3, 2024",
