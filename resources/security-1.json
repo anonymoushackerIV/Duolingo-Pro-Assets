@@ -13,5 +13,10 @@
 		"expiration": "never",
 		"reason": "abusing the feedback feature",
 		"rebuttal": "https://discord.gg/r8xQ7K59Mt"
+	},
+	"6951134648": {
+		"expiration": "never",
+		"reason": "defective code, crashed our server",
+		"rebuttal": "https://discord.gg/r8xQ7K59Mt"
 	}
 }
