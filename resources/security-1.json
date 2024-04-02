@@ -16,7 +16,12 @@
 	},
 	"6951134648": {
 		"expiration": "never",
-		"reason": "defective code, crashed our server",
+		"reason": "defective code, this Duolingo Pro file is broken",
+		"rebuttal": "https://discord.gg/r8xQ7K59Mt"
+	},
+	"4458867541": {
+		"expiration": "never",
+		"reason": "defective code, this Duolingo Pro file is broken",
 		"rebuttal": "https://discord.gg/r8xQ7K59Mt"
 	}
 }
