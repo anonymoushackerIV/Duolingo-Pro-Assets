@@ -55,28 +55,28 @@
             "warning-id": "text"
         },
         "warning-4": {
-            "warning-title": "Fixed an issue that might have led to Duolingo Pro not solving the first question in a lesson.",
+            "warning-title": "Fixed an issue that might have led to Duolingo Pro not working at all.",
             "warning-description": "Warning 4",
             "warning-level": "fixed",
             "warning-date": "text",
             "warning-id": "text"
         },
         "warning-5": {
-            "warning-title": "Fixed an issue that might have not solved a question that involved translating then typing a single word.",
+            "warning-title": "Fixed an issue that might have led to the Promotion Box at the bottom right not disappearing after it's been closed.",
             "warning-description": "Warning 5",
             "warning-level": "fixed",
             "warning-date": "text",
             "warning-id": "text"
         },
         "warning-6": {
-            "warning-title": "Fixed an issue that might have led to Duolingo Pro not opening chests in path mode.",
+            "warning-title": "Listening Mode is not available yet.",
             "warning-description": "Warning 6",
             "warning-level": "fixed",
             "warning-date": "text",
             "warning-id": "text"
         },
         "warning-7": {
-            "warning-title": "Fixed an issue that might have led to Duolingo Pro not working at all on a path with no chests.",
+            "warning-title": "XP Mode is not available yet.",
             "warning-description": "Warning 7",
             "warning-level": "fixed",
             "warning-date": "text",
