@@ -71,14 +71,14 @@
         "warning-6": {
             "warning-title": "Listening Mode is not available yet.",
             "warning-description": "Warning 6",
-            "warning-level": "fixed",
+            "warning-level": "medium",
             "warning-date": "text",
             "warning-id": "text"
         },
         "warning-7": {
             "warning-title": "XP Mode is not available yet.",
             "warning-description": "Warning 7",
-            "warning-level": "fixed",
+            "warning-level": "medium",
             "warning-date": "text",
             "warning-id": "text"
         },
