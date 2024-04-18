@@ -32,7 +32,7 @@
         "status": "latest"
     },
     "2.0BETA9.6.5": {
-        "last-updated": "April 1, 2024",
+        "last-updated": "April 18, 2024",
         "warning-1": {
             "warning-title": "Story & Legendary support is coming soon.",
             "warning-description": "Warning 1",
@@ -69,6 +69,46 @@
             "warning-id": "text"
         },
         "status": "latest"
+    },
+    "2.0BETA9.6.5": {
+        "last-updated": "April 1, 2024",
+        "warning-1": {
+            "warning-title": "Story & Legendary support is coming soon.",
+            "warning-description": "Warning 1",
+            "warning-level": "high",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-2": {
+            "warning-title": "Next Update Tracker doesn't work yet.",
+            "warning-description": "Warning 2",
+            "warning-level": "medium",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-3": {
+            "warning-title": "Some questions in languages that use non-Roman alphabets might not get solved.",
+            "warning-description": "Warning 3",
+            "warning-level": "medium",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-4": {
+            "warning-title": "Fixed an issue that might have led to a browser pop up saying fetch failed to stop Duolingo Pro.",
+            "warning-description": "Warning 4",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-5": {
+            "warning-title": "Speeded up AutoSolver.",
+            "warning-description": "Warning 5",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "status": "outdated"
+    },
     "2.0BETA9.6.4": {
         "last-updated": "April 1, 2024",
         "warning-1": {
