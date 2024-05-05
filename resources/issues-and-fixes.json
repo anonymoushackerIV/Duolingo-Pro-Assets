@@ -32,7 +32,7 @@
         "status": "latest"
     },
     "2.0BETA9.6.7": {
-        "last-updated": "April 21, 2024",
+        "last-updated": "May 5, 2024",
         "warning-1": {
             "warning-title": "Story & Legendary support is coming soon.",
             "warning-description": "Warning 1",
@@ -40,15 +40,22 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "warning-3": {
+        "warning-2": {
             "warning-title": "Some questions in languages that use non-Roman alphabets might not get solved.",
             "warning-description": "Warning 3",
             "warning-level": "medium",
             "warning-date": "text",
             "warning-id": "text"
         },
-        "warning-4": {
+        "warning-3": {
             "warning-title": "Next Update Tracker now works.",
+            "warning-description": "Warning 4",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-4": {
+            "warning-title": "A bug that led to chests not opening has been solved.",
             "warning-description": "Warning 4",
             "warning-level": "fixed",
             "warning-date": "text",
