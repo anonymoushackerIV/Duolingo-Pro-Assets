@@ -42,14 +42,14 @@
         },
         "warning-2": {
             "warning-title": "Some questions in languages that use non-Roman alphabets might not get solved.",
-            "warning-description": "Warning 3",
+            "warning-description": "Warning 2",
             "warning-level": "medium",
             "warning-date": "text",
             "warning-id": "text"
         },
         "warning-3": {
             "warning-title": "Next Update Tracker now works.",
-            "warning-description": "Warning 4",
+            "warning-description": "Warning 3",
             "warning-level": "fixed",
             "warning-date": "text",
             "warning-id": "text"
@@ -101,7 +101,7 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest"
+        "status": "outdated"
     },
     "2.0BETA9.6.5": {
         "last-updated": "April 1, 2024",
