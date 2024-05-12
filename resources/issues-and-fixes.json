@@ -31,6 +31,32 @@
         },
         "status": "latest"
     },
+    "2.0BETA9.6.8": {
+        "last-updated": "May 12, 2024",
+        "warning-1": {
+            "warning-title": "Story & Legendary support is coming soon™.",
+            "warning-description": "Warning 1",
+            "warning-level": "high",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-2": {
+            "warning-title": "Some questions in languages that use non-Roman alphabets might not get solved.",
+            "warning-description": "Warning 2",
+            "warning-level": "medium",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "warning-3": {
+            "warning-title": "A bug that led to legendary challenge screens not getting skipped has been solved.",
+            "warning-description": "Warning 3",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "status": "latest",
+        "next-update": "10%"
+    },
     "2.0BETA9.6.7": {
         "last-updated": "May 5, 2024",
         "warning-1": {
@@ -61,8 +87,8 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest",
-        "next-update": "20%"
+        "status": "outdated",
+        "next-update": "100%"
     },
     "2.0BETA9.6.6": {
         "last-updated": "April 18, 2024",
