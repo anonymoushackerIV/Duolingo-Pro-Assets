@@ -1,4 +1,16 @@
 {
+    "2.0DAWN.0005": {
+        "last-updated": "May 15, 2024",
+        "warning-1": {
+            "warning-title": "This version does not have release notes. Ask in Secret Duolingo Pro HQ to learn more.",
+            "warning-description": "Warning 1",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
+        "status": "latest",
+        "next-update": "90%"
+    },
     "2.0BETA10": {
         "last-updated": "January 6, 2024",
         "warning-1": {
