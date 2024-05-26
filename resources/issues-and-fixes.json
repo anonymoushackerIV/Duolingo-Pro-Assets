@@ -1,5 +1,5 @@
 {
-    "2.0DAWN.007": {
+    "2.0DAWN.008": {
         "last-updated": "May 19, 2024",
         "warning-1": {
             "warning-title": "Story support is here.",
@@ -8,8 +8,15 @@
             "warning-date": "text",
             "warning-id": "text"
         },
+        "warning-2": {
+            "warning-title": "XP mode is here.",
+            "warning-description": "Warning 2",
+            "warning-level": "fixed",
+            "warning-date": "text",
+            "warning-id": "text"
+        },
         "status": "latest",
-        "next-update": "90%"
+        "next-update": "75%"
     },
     "2.0BETA10": {
         "last-updated": "January 6, 2024",
