@@ -1,6 +1,6 @@
 {
-    "2.0DAWN.009": {
-        "last-updated": "May 26, 2024",
+    "2.0DAWN.010": {
+        "last-updated": "June 9, 2024",
         "warning-1": {
             "warning-title": "Story support is here.",
             "warning-description": "Warning 1",
@@ -17,38 +17,6 @@
         },
         "status": "latest",
         "next-update": "75%"
-    },
-    "2.0BETA10": {
-        "last-updated": "January 6, 2024",
-        "warning-1": {
-            "warning-title": "Warning 1",
-            "warning-description": "Warning 1",
-            "warning-level": "high",
-            "warning-date": "text",
-            "warning-id": "text"
-        },
-        "warning-2": {
-            "warning-title": "Warning 2",
-            "warning-description": "Warning 2",
-            "warning-level": "medium",
-            "warning-date": "text",
-            "warning-id": "text"
-        },
-        "warning-3": {
-            "warning-title": "Warning 3",
-            "warning-description": "Warning 3",
-            "warning-level": "low",
-            "warning-date": "text",
-            "warning-id": "text"
-        },
-        "warning-4": {
-            "warning-title": "Warning 4",
-            "warning-description": "Warning 4",
-            "warning-level": "fixed",
-            "warning-date": "text",
-            "warning-id": "text"
-        },
-        "status": "latest"
     },
     "2.0BETA9.7.2": {
         "last-updated": "June 9, 2024",
