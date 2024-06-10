@@ -146,7 +146,7 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "outdated",
+        "status": "deprecated",
         "next-update": "100%"
     },
     "2.0BETA9.6.7": {
