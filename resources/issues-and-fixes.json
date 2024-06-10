@@ -87,7 +87,7 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest",
+        "status": "deprecated",
         "next-update": "10%"
     },
     "2.0BETA9.7.0": {
