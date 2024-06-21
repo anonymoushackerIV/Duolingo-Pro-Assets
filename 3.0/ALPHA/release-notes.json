@@ -1,0 +1,27 @@
+{
+    "01": {
+        "updated": "June 21, 2024",
+        "warning": {
+            "head": "Issue",
+            "body": "First release, expect bugs 1.",
+            "icon": "high",
+            "date": "June 21, 2024",
+            "id": "0001"
+        },
+        "warning": {
+            "head": "Warning",
+            "body": "First release, expect bugs.",
+            "icon": "low",
+            "date": "June 21, 2024",
+            "id": "0001"
+        },
+        "warning": {
+            "head": "Fixed",
+            "body": "First release, expect bugs 2.",
+            "icon": "fixed",
+            "date": "June 21, 2024",
+            "id": "0001"
+        },
+        "status": "latest"
+    }
+}
