@@ -15,8 +15,8 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest",
-        "next-update": "75%"
+        "status": "deprecated",
+        "next-update": "100%"
     },
     "2.0BETA9.7.3": {
         "last-updated": "July 1, 2024",
@@ -55,8 +55,8 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "latest",
-        "next-update": "60%"
+        "status": "deprecated",
+        "next-update": "100%"
     },
     "2.0BETA9.7.2": {
         "last-updated": "June 9, 2024",
@@ -95,7 +95,7 @@
             "warning-date": "text",
             "warning-id": "text"
         },
-        "status": "outdated",
+        "status": "deprecated",
         "next-update": "100%"
     },
     "2.0BETA9.7.1": {
